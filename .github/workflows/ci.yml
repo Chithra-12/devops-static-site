@@ -27,7 +27,7 @@ jobs:
       with:
         context: .
         push: true
-        tags: chithra12/static-site:latest
+        tags: chithrakanmani/static-site:latest
 
 
 
